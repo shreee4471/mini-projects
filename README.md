@@ -99,9 +99,14 @@ Settings are saved in `stock_config.json`:
 - tkinter (usually included with Python)
 
 ## Notes
+-You can modify as your own needs 
+-You can upgrade it. and showcase so that it is helpful for everyone
+PEACE ✌ 
+
 
 - The system uses Yahoo Finance API through yfinance library
 - Prices are updated every minute (maximum frequency)
 - For Indian stocks, always use appropriate exchange suffixes (.NS for NSE)
 - Desktop notifications work on Windows, macOS, and Linux
 - The GUI version provides the best user experience with real-time visual feedback
+
